@@ -1,0 +1,9 @@
+# Go build cache
+bin/
+pkg/
+*.exe
+*.out
+*.test
+
+# Go module dependencies cache
+go.sum
